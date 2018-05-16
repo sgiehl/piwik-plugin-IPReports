@@ -14,5 +14,22 @@ use Piwik\Plugin;
  */
 class IPReports extends Plugin
 {
+    /**
+     * @see Piwik_Plugin::getListHooksRegistered
+     */
+    public function getListHooksRegistered()
+    {
+        return array(
+            'AssetManager.getStylesheetFiles'  => 'getStylesheetFiles',
+        );
+    }
 
+    /**
+     * Adds required CSS files
+     * @param $stylesheets
+     */
+    public function getStylesheetFiles(&$stylesheets)
+    {
+        $stylesheets[] = "plugins/IPReports/stylesheets/ipreports.less";
+    }
 }
