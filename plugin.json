@@ -1,7 +1,7 @@
 {
     "name": "IPReports",
-    "version": "0.1.0",
-    "description": "Adds new IP reports to Piwik.",
+    "version": "0.2.0",
+    "description": "Adds new IP reports to Matomo",
     "keywords": ["ip", "ips", "report"],
     "license": "GPL v3+",
     "homepage": "http://github.com/sgiehl/piwik-plugin-IPReports",
@@ -23,7 +23,6 @@
     ],
     "donate": {
         "paypal": "stefangiehl@web.de",
-        "flattr": "https://flattr.com/thing/3787742/sgiehlpiwik-plugin-IPReports-on-GitHub",
-        "bitcoin": "1NxyWNfsjSNQULGxPVJUkgf8D3rpdJEgM6"
+        "flattr": "https://flattr.com/thing/3787742/sgiehlpiwik-plugin-IPReports-on-GitHub"
     }
 }
