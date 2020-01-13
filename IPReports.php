@@ -15,9 +15,9 @@ use Piwik\Plugin;
 class IPReports extends Plugin
 {
     /**
-     * @see Piwik_Plugin::getListHooksRegistered
+     * @see Piwik_Plugin::registerEvents
      */
-    public function getListHooksRegistered()
+    public function registerEvents()
     {
         return array(
             'AssetManager.getStylesheetFiles'  => 'getStylesheetFiles',
