@@ -15,9 +15,6 @@ class VisitorDetails extends VisitorDetailsAbstract
 {
     public function renderIcons($visitorDetails)
     {
-        if (version_compare(Version::VERSION, '3.5.0', '>=')) {
-            return ''; // skip for older Matomo versions, as IP was included in real time widget
-        }
         return '<span class="location-ip">IP: ' . $visitorDetails['visitIp'] . '</span>';
     }
 }

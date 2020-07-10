@@ -9,7 +9,7 @@
 namespace Piwik\Plugins\IPReports;
 
 use Piwik\Archive;
-use Piwik\Network\IP;
+use Matomo\Network\IP;
 use Piwik\Piwik;
 
 /**
