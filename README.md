@@ -4,7 +4,7 @@
 
 ## Description
 
-This plugin adds an additional report "Top IP-Addresses" to Matomo.
+This plugin adds additional reports "Top IP-Addresses" and "IPv4 / IPv6 usage" to Matomo.
 
 ### Requirements
 

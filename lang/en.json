@@ -2,6 +2,7 @@
   "IPReports": {
     "IP": "IP-Address",
     "IPs": "IP-Addresses",
+    "WidgetIPTypes": "IPv4 / IPv6 usage",
     "WidgetIPs": "Top IP-Addresses"
   }
 }
