@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "Adresse IP",
+        "IPs": "Adresses IP",
+        "WidgetIPTypes": "Utilisation IPv4 / IPv6",
+        "WidgetIPs": "Top des Adresses IP"
+    }
+}
