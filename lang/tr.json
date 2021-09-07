@@ -2,7 +2,7 @@
     "IPReports": {
         "IP": "IP adresi",
         "IPs": "IP adresleri",
-        "WidgetIPTypes": "IPv4 \/ IPv6 kullanımı",
+        "WidgetIPTypes": "IPv4 / IPv6 kullanımı",
         "WidgetIPs": "Önde gelen IP adresleri"
     }
 }
