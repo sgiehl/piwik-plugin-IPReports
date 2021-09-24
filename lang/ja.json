@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "IP-Address",
+        "IPs": "IP-Addresses",
+        "WidgetIPTypes": "IPv4 / IPv6の使用状況",
+        "WidgetIPs": "上位のIPアドレス"
+    }
+}
