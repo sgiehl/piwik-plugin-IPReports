@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "Adresë IP",
+        "IPs": "Adresa IP",
+        "WidgetIPTypes": "Përdorim IPv4 / IPv6",
+        "WidgetIPs": "Adresa IP Kryesuese"
+    }
+}
