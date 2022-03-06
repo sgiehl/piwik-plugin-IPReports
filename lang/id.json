@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "Alamat IP",
+        "IPs": "Alamat IP",
+        "WidgetIPTypes": "Penggunaan IPv4/ IPv6",
+        "WidgetIPs": "Alamat IP Teratas"
+    }
+}
