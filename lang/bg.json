@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "IP адрес",
+        "IPs": "IP адреси",
+        "WidgetIPTypes": "Използване на IPv4 / IPv6",
+        "WidgetIPs": "Топ IP адреси"
+    }
+}
