@@ -9,7 +9,6 @@
 namespace Piwik\Plugins\IPReports;
 
 use Piwik\Plugins\Live\VisitorDetailsAbstract;
-use Piwik\Version;
 
 class VisitorDetails extends VisitorDetailsAbstract
 {

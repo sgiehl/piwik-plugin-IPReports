@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Matomo - free/libre analytics platform
  *
@@ -6,6 +7,7 @@
  * @license http://www.gnu.org/licenses/gpl-3.0.html GPL v3 or later
  *
  */
+
 namespace Piwik\Plugins\IPReports;
 
 use Piwik\Archive;
@@ -24,9 +26,9 @@ class API extends \Piwik\Plugin\API
         Piwik::checkUserHasViewAccess($idSite);
         $archive = Archive::build($idSite, $period, $date, $segment);
         $dataTable = $archive->getDataTable(Archiver::IPREPORTS_RECORD_NAME);
-        $dataTable->filter('GroupBy', array('label', function($value) {
+        $dataTable->filter('GroupBy', ['label', function ($value) {
             return IP::fromBinaryIP($value)->toString();
-        }));
+        }]);
         $dataTable->queueFilter('ReplaceColumnNames');
         $dataTable->queueFilter('ReplaceSummaryRowLabel');
         return $dataTable;
@@ -40,6 +42,5 @@ class API extends \Piwik\Plugin\API
         $dataTable->queueFilter('ReplaceColumnNames');
         $dataTable->queueFilter('ReplaceSummaryRowLabel');
         return $dataTable;
-
     }
 }
