@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "IP 주소",
+        "IPs": "IP 주소",
+        "WidgetIPTypes": "IPv4 / IPv6 사용",
+        "WidgetIPs": "상위 IP 주소"
+    }
+}
