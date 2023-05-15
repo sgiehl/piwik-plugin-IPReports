@@ -1,6 +1,8 @@
 {
     "IPReports": {
         "IP": "IP 位址",
-        "IPs": "IP 位址"
+        "IPs": "IP 位址",
+        "WidgetIPTypes": "IPv4 / IPv6 使用率",
+        "WidgetIPs": "熱門 IP 位址"
     }
 }
