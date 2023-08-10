@@ -20,7 +20,6 @@ use Piwik\Tests\Framework\TestCase\SystemTestCase;
  */
 class ApiTest extends SystemTestCase
 {
-
     public static $fixture = null;
 
     public static function getOutputPrefix()

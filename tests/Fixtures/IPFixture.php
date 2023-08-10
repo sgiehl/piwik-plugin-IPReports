@@ -10,7 +10,6 @@
 
 namespace Piwik\Plugins\IPReports\tests\Fixtures;
 
-use Piwik\Config;
 use Piwik\Tests\Framework\Fixture;
 use Piwik\Date;
 
@@ -67,7 +66,7 @@ class IPFixture extends Fixture
     public function provideContainerConfig()
     {
         return [
-            'Piwik\Config' => \DI\decorate(function ($previous) {
+            'Piwik\Config' => \Piwik\DI::decorate(function ($previous) {
                 $general = $previous->General;
                 $general['datatable_archiving_maximum_rows_standard'] = 7;
                 $previous->General = $general;
