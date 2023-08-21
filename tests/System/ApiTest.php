@@ -15,8 +15,8 @@ use Piwik\Tests\Framework\TestCase\SystemTestCase;
 
 /**
  * @package Piwik\Plugins\IPReports\tests
- * @group Plugins
- * @group IPReports
+ * @group   Plugins
+ * @group   IPReports
  */
 class ApiTest extends SystemTestCase
 {
@@ -54,8 +54,8 @@ class ApiTest extends SystemTestCase
             [
                 'idSite'  => self::$fixture->idSite,
                 'date'    => self::$fixture->dateTime,
-                'periods' => ['day']
-            ]
+                'periods' => ['day'],
+            ],
         ];
 
         return $apiToTest;

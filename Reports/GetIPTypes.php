@@ -1,8 +1,9 @@
 <?php
+
 /**
  * Matomo - free/libre analytics platform
  *
- * @link https://matomo.org
+ * @link    https://matomo.org
  * @license http://www.gnu.org/licenses/gpl-3.0.html GPL v3 or later
  *
  */
@@ -19,10 +20,10 @@ class GetIPTypes extends Report
 {
     protected function init()
     {
-        $this->categoryId = 'General_Visitors';
-        $this->dimension  = new IP();
-        $this->name       = Piwik::translate('IPReports_WidgetIPTypes');
-        $this->order      = 55;
+        $this->categoryId    = 'General_Visitors';
+        $this->dimension     = new IP();
+        $this->name          = Piwik::translate('IPReports_WidgetIPTypes');
+        $this->order         = 55;
         $this->subcategoryId = 'UserCountry_SubmenuLocations';
 
         $this->alwaysUseDefaultViewDataTable();

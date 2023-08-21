@@ -3,7 +3,7 @@
 /**
  * Matomo - Open source web analytics
  *
- * @link https://matomo.org
+ * @link    https://matomo.org
  * @license http://www.gnu.org/licenses/gpl-3.0.html GPL v3 or later
  */
 
@@ -22,12 +22,13 @@ class IPReports extends Plugin
     public function registerEvents()
     {
         return [
-            'AssetManager.getStylesheetFiles'  => 'getStylesheetFiles',
+            'AssetManager.getStylesheetFiles' => 'getStylesheetFiles',
         ];
     }
 
     /**
      * Adds required CSS files
+     *
      * @param $stylesheets
      */
     public function getStylesheetFiles(&$stylesheets)
