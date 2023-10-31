@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "IP helbidea",
+        "IPs": "IP helbideak",
+        "WidgetIPTypes": "IPv4 / IPv6 erabilera",
+        "WidgetIPs": "IP helbide garrantzitsuenak"
+    }
+}
