@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "IP-સરનામું",
+        "IPs": "IP-સરનામાઓ",
+        "WidgetIPTypes": "IPv4 / IPv6 વપરાશ",
+        "WidgetIPs": "ટોચના IP-સરનામાઓ"
+    }
+}
