@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "ஐபி முகவரி",
+        "IPs": "ஐபி முகவரிகள்",
+        "WidgetIPTypes": "IPVCH / IPVSH SESAGE",
+        "WidgetIPs": "சிறந்த ஐபி முகவரிகள்"
+    }
+}
