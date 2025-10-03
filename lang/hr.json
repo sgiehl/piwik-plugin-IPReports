@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "IP-adresa",
+        "IPs": "IP-adrese",
+        "WidgetIPTypes": "IPv4 / IPv6 korištenje",
+        "WidgetIPs": "Najčešće IP-adrese"
+    }
+}
