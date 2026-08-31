@@ -10,6 +10,10 @@
 		<sum_visit_length>0</sum_visit_length>
 		<bounce_count>2</bounce_count>
 		<nb_visits_converted>0</nb_visits_converted>
+		<nb_visits_percent_of_total>20%</nb_visits_percent_of_total>
+		<nb_actions_percent_of_total>20%</nb_actions_percent_of_total>
+		<nb_visits_converted_percent_of_total>0%</nb_visits_converted_percent_of_total>
+		<bounce_count_percent_of_total>20%</bounce_count_percent_of_total>
 	</row>
 	<row>
 		<label>4.33.44.154</label>
@@ -21,6 +25,10 @@
 		<sum_visit_length>0</sum_visit_length>
 		<bounce_count>1</bounce_count>
 		<nb_visits_converted>0</nb_visits_converted>
+		<nb_visits_percent_of_total>10%</nb_visits_percent_of_total>
+		<nb_actions_percent_of_total>10%</nb_actions_percent_of_total>
+		<nb_visits_converted_percent_of_total>0%</nb_visits_converted_percent_of_total>
+		<bounce_count_percent_of_total>10%</bounce_count_percent_of_total>
 	</row>
 	<row>
 		<label>5.88.3.45</label>
@@ -32,6 +40,10 @@
 		<sum_visit_length>0</sum_visit_length>
 		<bounce_count>1</bounce_count>
 		<nb_visits_converted>0</nb_visits_converted>
+		<nb_visits_percent_of_total>10%</nb_visits_percent_of_total>
+		<nb_actions_percent_of_total>10%</nb_actions_percent_of_total>
+		<nb_visits_converted_percent_of_total>0%</nb_visits_converted_percent_of_total>
+		<bounce_count_percent_of_total>10%</bounce_count_percent_of_total>
 	</row>
 	<row>
 		<label>9.9.9.9</label>
@@ -43,6 +55,10 @@
 		<sum_visit_length>0</sum_visit_length>
 		<bounce_count>1</bounce_count>
 		<nb_visits_converted>0</nb_visits_converted>
+		<nb_visits_percent_of_total>10%</nb_visits_percent_of_total>
+		<nb_actions_percent_of_total>10%</nb_actions_percent_of_total>
+		<nb_visits_converted_percent_of_total>0%</nb_visits_converted_percent_of_total>
+		<bounce_count_percent_of_total>10%</bounce_count_percent_of_total>
 	</row>
 	<row>
 		<label>92.34.0.87</label>
@@ -54,6 +70,10 @@
 		<sum_visit_length>0</sum_visit_length>
 		<bounce_count>1</bounce_count>
 		<nb_visits_converted>0</nb_visits_converted>
+		<nb_visits_percent_of_total>10%</nb_visits_percent_of_total>
+		<nb_actions_percent_of_total>10%</nb_actions_percent_of_total>
+		<nb_visits_converted_percent_of_total>0%</nb_visits_converted_percent_of_total>
+		<bounce_count_percent_of_total>10%</bounce_count_percent_of_total>
 	</row>
 	<row>
 		<label>2003:f6:93bf:907:9ec7:a6ff:fe29:27de</label>
@@ -65,6 +85,10 @@
 		<sum_visit_length>0</sum_visit_length>
 		<bounce_count>1</bounce_count>
 		<nb_visits_converted>0</nb_visits_converted>
+		<nb_visits_percent_of_total>10%</nb_visits_percent_of_total>
+		<nb_actions_percent_of_total>10%</nb_actions_percent_of_total>
+		<nb_visits_converted_percent_of_total>0%</nb_visits_converted_percent_of_total>
+		<bounce_count_percent_of_total>10%</bounce_count_percent_of_total>
 	</row>
 	<row>
 		<label>Others</label>
@@ -76,5 +100,9 @@
 		<sum_visit_length>0</sum_visit_length>
 		<bounce_count>3</bounce_count>
 		<nb_visits_converted>0</nb_visits_converted>
+		<nb_visits_percent_of_total>30%</nb_visits_percent_of_total>
+		<nb_actions_percent_of_total>30%</nb_actions_percent_of_total>
+		<nb_visits_converted_percent_of_total>0%</nb_visits_converted_percent_of_total>
+		<bounce_count_percent_of_total>30%</bounce_count_percent_of_total>
 	</row>
 </result>
