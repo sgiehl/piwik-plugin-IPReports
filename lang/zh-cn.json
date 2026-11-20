@@ -1,6 +1,8 @@
 {
     "IPReports": {
         "IP": "IP 地址",
-        "IPs": "IP 地址"
+        "IPs": "IP 地址",
+        "WidgetIPTypes": "IPv4 / IPv6 使用情况",
+        "WidgetIPs": "热门 IP 地址"
     }
 }
