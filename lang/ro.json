@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "Adresă IP",
+        "IPs": "Adrese IP",
+        "WidgetIPTypes": "Utilizare IPv4 / IPv6",
+        "WidgetIPs": "Top adrese IP"
+    }
+}
